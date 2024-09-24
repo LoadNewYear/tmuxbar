@@ -37,8 +37,8 @@ main()
   show_empty_plugins=$(get_tmux_option "@dracula-show-empty-plugins" true)
 
   # Dracula Color Pallette
-  white='#f8f8f2'
-  gray='#44475a'
+  white='#ffffff'
+  gray='#000000'
   dark_gray='#282a36'
   light_purple='#bd93f9'
   dark_purple='#6272a4'
